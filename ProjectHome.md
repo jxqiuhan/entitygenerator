@@ -1,0 +1,1 @@
+Classe em php para criar os models de uma bse de dados
